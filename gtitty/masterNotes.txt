@@ -1,0 +1,8 @@
+1. Jo stage me changes hai whi save hoga ,even if mene same file me baad me edit kara ho
+wo nhi hoga.
+
+2. phli commit ke saath hi master create ho jata hai
+3.checkout -b dev_branch
+4. git branch to know on which branch you are on
+5.git log me sare branch ke commit dikhayega
+6.
