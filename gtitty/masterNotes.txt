@@ -5,4 +5,7 @@ wo nhi hoga.
 3.checkout -b dev_branch
 4. git branch to know on which branch you are on
 5.git log me sare branch ke commit dikhayega
-6.
+6.git config --global user.email "vsd@gmail.com"
+git config --global user.name "your name"
+7.Branch me jane ke liye git checkout branchName
+8 git push -u origin dev-branch
