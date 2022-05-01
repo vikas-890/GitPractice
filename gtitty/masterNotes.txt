@@ -12,6 +12,6 @@ git config --global user.name "your name"
 8 git push -u origin dev-branch
 8 git push -u origin dev-branch
 9 git reset --soft jiscommitId par jana hai //// then git status dikha dega uncommited //// git reset filname basically 
-changed items remove kar dega
+changed items unstage kar dega, ek bar 
 
 
